@@ -14,3 +14,5 @@ The endpoint then returns the model's guess. The guess then travels back up the 
 
 
 ![NumberGuesser](https://github.com/PiyushBud/AWS-Number-Guesser/assets/93603829/400a3314-4623-4771-968e-22ccb4c8db8a)
+
+Creation of model and endpoint code can be found in the 'Notebook' directory and webapp code can be found in 'WebApp'
